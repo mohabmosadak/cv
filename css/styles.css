@@ -1,0 +1,53 @@
+/* General Body Style */
+body{
+background-color: #FEFBF6;
+color: #3D3C42;
+font-family: 'Mochiy Pop One', sans-serif;
+font-size: small;
+}
+
+/* Contact Us Body */
+body.contactUs{
+    text-align: center;
+}
+
+/* My Bio */
+div.info{
+    position: absolute;
+    left: 220px;
+    top: 20px;
+}
+
+/* General Horizontal Line Style */
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    background-color: #A6D1E6;
+    border-width: 2px;
+    width: 10%;
+}
+
+/* My Image Style */
+img.me{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+}
+
+h1{
+    color: #7F5283;
+}
+
+h3{
+    color: #7F5283;
+}
+
+a{
+    color: #A6D1E6;
+}
+
+footer{
+    text-align: center;
+}
